@@ -10,7 +10,7 @@ print datingDataMat
 
 normMat, ranges, minVals = kNN.autoNorm(datingDataMat)
 
-print '¹éÒ»»¯ÌØÕ÷Öµ'
+print 'å½’ä¸€åŒ–ç‰¹å¾å€¼'
 print normMat
 
 fig = plt.figure()

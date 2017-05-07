@@ -39,7 +39,7 @@ def file2matrix(filename):
         index += 1
     return returnMat, classLabelVector
 
-# ¹éÒ»»¯ÌØÕ÷
+# å½’ä¸€åŒ–ç‰¹å¾
 
 def autoNorm(dataSet):
     minVals = dataSet.min(0)
